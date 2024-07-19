@@ -78,7 +78,7 @@ nav ul li a::hover{
 
 .logo-equipo img {
   width: auto;/* Ajusta el tamaño máximo de los logos según sea necesario */
-  height: 80%;
+  height: 30%;
 }
 
 .vs {

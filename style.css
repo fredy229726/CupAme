@@ -36,7 +36,7 @@ nav ul li{
   transition: transform 0.3s ease;
 }
 
-nav ul li::hover{
+nav ul li:hover{
   transform: scale(1.1);
 }
 
@@ -78,7 +78,7 @@ nav ul li a::hover{
 
 .logo-equipo img {
   width: auto;/* Ajusta el tamaño máximo de los logos según sea necesario */
-  height: 200px;
+  height: 80%;
 }
 
 .vs {
@@ -116,7 +116,7 @@ section{
   transition: transform 0.3s ease;
 }
 
-section::hover{
+section:hover{
   transform: translateY(-5px);
 }
 
